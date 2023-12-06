@@ -23,10 +23,10 @@ The primary goal of this project is to automate and streamline the process of an
 ## Execution Steps
 
 1. **Data Preparation:**
-   - Ensure relevant data sources are accessible in the `/data` directory.
+   - Ensure relevant data sources are accessible in the  directory.
    
 2. **Power Query Transformation:**
-   - Execute the Power Query script (`/scripts/transform_data.pq`) to clean and transform the raw data.
+   - Execute the Power Query script to clean and transform the raw data.
    
 3. **P&L Generation:**
    - Utilize the generated transformed data to create P&L reports using Power Pivot
